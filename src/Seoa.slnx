@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Seoa.csproj" />
+  <Project Path="Test/Seoa.Test.csproj" />
+</Solution>
