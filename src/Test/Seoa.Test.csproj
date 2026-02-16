@@ -5,13 +5,13 @@
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
-    <AssemblyName>Aspenlaub.Net.GitHub.CSharp.Seoa</AssemblyName>
-    <RootNamespace>Aspenlaub.Net.GitHub.CSharp.Seoa</RootNamespace>
+    <AssemblyName>Aspenlaub.Net.GitHub.CSharp.Seoa.Test</AssemblyName>
+    <RootNamespace>Aspenlaub.Net.GitHub.CSharp.Seoa.Test</RootNamespace>
     <GenerateBuildInfoConfigFile>false</GenerateBuildInfoConfigFile>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <Deterministic>false</Deterministic>
-    <AssemblyTitle>Aspenlaub.Net.GitHub.CSharp.Seoa</AssemblyTitle>
-    <AssemblyProduct>Aspenlaub.Net.GitHub.CSharp.Seoa</AssemblyProduct>
+    <AssemblyTitle>Aspenlaub.Net.GitHub.CSharp.Seoa.Test</AssemblyTitle>
+    <AssemblyProduct>Aspenlaub.Net.GitHub.CSharp.Seoa.Test</AssemblyProduct>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'" />
