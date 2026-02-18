@@ -6,8 +6,8 @@
     <Nullable>disable</Nullable>
     <AssemblyName>Aspenlaub.Net.GitHub.CSharp.Seoa</AssemblyName>
     <RootNamespace>Aspenlaub.Net.GitHub.CSharp.Seoa</RootNamespace>
-	<IsPackable>true</IsPackable>
-	<GenerateBuildInfoConfigFile>false</GenerateBuildInfoConfigFile>
+    <IsPackable>true</IsPackable>
+    <GenerateBuildInfoConfigFile>false</GenerateBuildInfoConfigFile>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <Deterministic>false</Deterministic>
     <AssemblyTitle>Aspenlaub.Net.GitHub.CSharp.Seoa</AssemblyTitle>
