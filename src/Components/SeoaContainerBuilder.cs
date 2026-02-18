@@ -1,6 +1,8 @@
 ﻿using Autofac;
 using Microsoft.Extensions.DependencyInjection;
 
+// ReSharper disable UnusedMember.Global
+
 namespace Aspenlaub.Net.GitHub.CSharp.Seoa.Components;
 
 public static class SeoaContainerBuilder {
