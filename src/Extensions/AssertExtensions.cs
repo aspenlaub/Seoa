@@ -1,5 +1,5 @@
-﻿using Aspenlaub.Net.GitHub.CSharp.Pegh.Extensions;
-using Aspenlaub.Net.GitHub.CSharp.Pegh.Interfaces;
+﻿using Aspenlaub.Net.GitHub.CSharp.Skladasu.Extensions;
+using Aspenlaub.Net.GitHub.CSharp.Skladasu.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Aspenlaub.Net.GitHub.CSharp.Seoa.Extensions;

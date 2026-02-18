@@ -1,5 +1,5 @@
-﻿using Aspenlaub.Net.GitHub.CSharp.Pegh.Entities;
-using Aspenlaub.Net.GitHub.CSharp.Seoa.Extensions;
+﻿using Aspenlaub.Net.GitHub.CSharp.Seoa.Extensions;
+using Aspenlaub.Net.GitHub.CSharp.Skladasu.Entities;
 
 namespace Aspenlaub.Net.GitHub.CSharp.Seoa.Test;
 
