@@ -39,7 +39,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="MSTest" Version="4.4.1" />
-    <PackageReference Include="Skladasu" Version="2.0.2620.819" />
+    <PackageReference Include="MSTest" Version="4.5.1" />
+    <PackageReference Include="Skladasu" Version="2.0.2644.468" />
   </ItemGroup>
 </Project>
