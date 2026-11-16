@@ -2,7 +2,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net11.0</TargetFramework>
-    <LangVersion>latest</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <AssemblyName>Aspenlaub.Net.GitHub.CSharp.Seoa.Test</AssemblyName>
